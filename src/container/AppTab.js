@@ -22,17 +22,23 @@ export default class AppTab extends React.Component {
           <TabBar.Item
             title="首页"
             key="Life"
-
-            
-            icon={<i style={{fontSize:22,lineHeight:'22px'}} className='iconfont icon-home'></i>
+            icon={
+              <div style={{
+                width: '22px',
+                height: '22px',
+                background: 'url(https://zos.alipayobjects.com/rmsportal/sifuoDUQdAFKAVcFGROC.svg) center center /  21px 21px no-repeat' }}
+              />
             }
-            selectedIcon={
-                <i style={{fontSize:22,lineHeight:'22px'}} className='iconfont icon-home'></i>
+            selectedIcon={<div style={{
+              width: '22px',
+              height: '22px',
+              background: 'url(https://zos.alipayobjects.com/rmsportal/iSrlOTqrKddqbOmlvUfq.svg) center center /  21px 21px no-repeat' }}
+            />
             }
-            selected={this.state.selectedTab === 'home'}
+            selected={this.state.selectedTab === 'blueTab'}
             onPress={() => {
               this.setState({
-                selectedTab: 'home',
+                selectedTab: 'blueTab',
               });
             }}
           >

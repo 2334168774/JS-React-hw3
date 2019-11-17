@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "static/css/main.e5d2bc91.chunk.css",
+    "main.js": "static/js/main.a6504add.chunk.js",
+    "main.js.map": "static/js/main.a6504add.chunk.js.map",
+    "runtime-main.js": "static/js/runtime-main.d10b7575.js",
+    "runtime-main.js.map": "static/js/runtime-main.d10b7575.js.map",
+    "static/css/2.a6e9608c.chunk.css": "static/css/2.a6e9608c.chunk.css",
+    "static/js/2.756990d7.chunk.js": "static/js/2.756990d7.chunk.js",
+    "static/js/2.756990d7.chunk.js.map": "static/js/2.756990d7.chunk.js.map",
+    "index.html": "index.html",
+    "precache-manifest.249247753416c799723964be4ef2fe0a.js": "precache-manifest.249247753416c799723964be4ef2fe0a.js",
+    "service-worker.js": "service-worker.js",
+    "static/css/2.a6e9608c.chunk.css.map": "static/css/2.a6e9608c.chunk.css.map",
+    "static/css/main.e5d2bc91.chunk.css.map": "static/css/main.e5d2bc91.chunk.css.map",
+    "static/media/住吧底部.png": "static/media/住吧底部.5ca424e9.png",
+    "static/media/商城下.png": "static/media/商城下.c11866b5.png",
+    "static/media/商城中.png": "static/media/商城中.b9476a68.png",
+    "static/media/商城轮播图.png": "static/media/商城轮播图.f6df0baf.png",
+    "static/media/灵感右1.png": "static/media/灵感右1.46c7a40d.png",
+    "static/media/灵感左1.png": "static/media/灵感左1.ff9e2dfb.png",
+    "static/media/首页中部.png": "static/media/首页中部.b3034c78.png",
+    "static/media/首页轮播.png": "static/media/首页轮播.ee045a3c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d10b7575.js",
+    "static/css/2.a6e9608c.chunk.css",
+    "static/js/2.756990d7.chunk.js",
+    "static/css/main.e5d2bc91.chunk.css",
+    "static/js/main.a6504add.chunk.js"
+  ]
+}
